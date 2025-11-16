@@ -6,6 +6,13 @@ I am currently working on and really interested in:
 
 - Predicting and Analyzing time series data. Specially looking on TBATS, ARIMA , LSTMS and Prophet.
 -  Diving deep into Graph Algorithms and Recursive or backtracking algorithms.
+-  RAG Algorithms
+
+Some of my projects
+- [Sephora Product Recommendation ChatBot](https://sephora-rag-nawlby8i5vy7drwddg83bg.streamlit.app)
+- [Broadway Analysis and ARIMA Forecasting](https://broadway.streamlit.app)
+- [NYC Subway ridership forecasting](https://medium.com/@zainabshakruwala/the-one-train-821d4b114435)
+- [Crime in LA Analysis](https://zainab-shakruwala.github.io/CrimeInLA/results.html)
 
 Previously:
 -	I interned with Capital One as a Data Scientist over the summer where I worked on Recommendation Systems for the AutoNavigator Website.
@@ -18,6 +25,6 @@ Previously:
 Feel free to connect with me to discuss collaboration opportunities or innovative projects!
 
 <!---
-zainab2303/zainab2303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+zainab-shakruwala/zainab-shakruwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
