@@ -3,10 +3,10 @@ Hello ! 👋
 I am a Data Scientist at NYC DOC and a recent graduate from Columbia University, interested in Recommendation Systems, NLP, Financial Services and Time Series Data.
 
 I am currently working on and really interested in:
-
+- GraphRAG and RAG 
 - Predicting and Analyzing time series data. Specially looking on TBATS, ARIMA , LSTMS and Prophet.
--  Diving deep into Graph Algorithms and Recursive or backtracking algorithms.
--  RAG Algorithms
+- Diving deep into Graph Algorithms and Recursive or backtracking algorithms.
+
 
 Some of my projects
 - [Sephora Product Recommendation ChatBot](https://sephora-rag-nawlby8i5vy7drwddg83bg.streamlit.app)
